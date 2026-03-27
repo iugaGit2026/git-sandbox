@@ -4,6 +4,8 @@
 
 - Mail: thomas.muguet@oslandia.com
 
+- Evaluation: https://framaforms.org/evaluation-git-1774529729
+
 ## Configuration git
 
 `git config --global user.name "Thomas Muguet"`
